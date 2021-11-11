@@ -1,0 +1,10 @@
+com/codegym/model/Product.java
+ com.codegym.model.Product
+config/SingletonConnection.java
+ config.SingletonConnection
+com/codegym/dao/ProductDAO.java
+ com.codegym.dao.ProductDAO
+com/codegym/dao/IProductDao.java
+ com.codegym.dao.IProductDao
+com/codegym/controller/ProductServlet.java
+ com.codegym.controller.ProductServlet

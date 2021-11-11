@@ -1,0 +1,31 @@
+table, td, th {
+    border: 1px solid black !important;
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr, td{
+    width: 100px;
+    text-align: center;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    border: none;
+}
+
+.tit {
+    color: darkred;
+    text-align: center;
+    font-weight: bold;
+}
+
+.cap{
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+}
